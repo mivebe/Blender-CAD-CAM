@@ -4,6 +4,7 @@
 
 This collection houses a variety of projects created using Blender, AutoCAD, SolidWorks and other 3D modeling tools.
 Intentions for creating them may be:
+
 - to serve as an idea project for showing to clients or a manufacturer.
 - to substitute engineering drawings when working with non-engineers.
 - to be implemented as static or animated object in a website.
@@ -20,11 +21,14 @@ To maintain a consistent and organized structure within this repository, I follo
 
 - **/\<project-name>/measurements:** These directories hold mostly screenshots with dimensions and different-sided views of a key object from the project.
 
-- **/\<project-name>/old:** If such folder exists then this meand that the initial concept of the project changed notably and all references, measurements and screenshots of it need to go in a separate folder in order not to mix with anything up to date. Such practice avoids extreme filename versioning and saves a lot of time.
+- **/\<project-name>/old:** If such folder exists then this means that the initial concept of the project changed notably and all references, measurements and screenshots of it need to go in a separate folder in order not to mix with anything up to date. Such practice avoids extreme filename versioning and saves a lot of time.
 
 - **/\<project-name>/resources:** These directories usually exist if I had some other models or assets I used for reference or to copy from. It is best practice to keep such assets intact.
 
+- **/\<project-name>/export:** These are folders holding models variations for exporting and the resulting exports.
+
 ### Naming Conventions
+
 I use naming conventions acquired through a carrer of programming and game development. And has proven to be useful and worth it when searching for something, trying to animate something or a group of parts. Naming of similar objects may vary in convention depending on what they are intended for. In the end the most general rule is to differentiate between things with similar names and ultimately avoid spaces (somebody really didnt think spaces through in the early 90s).
 
 - **Project File Naming:** Pascal Case (PascalCase) - Community Standard.
