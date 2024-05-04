@@ -1,0 +1,24 @@
+sphere   diameter 31 mmm
+
+
+pillar deiameter 5mm
+pillar lenth 5mm
+
+
+
+inner pillar diameter  4.5 mm
+
+
+inner support wall   width 1mm
+
+cap diameter 20 mm
+
+stick lever   1.2mm / 1.8mm
+
+inner pillar hole for lever  1.5mm / 2mm
+
+
+inner pillar offset center 6 mm
+
+
+
