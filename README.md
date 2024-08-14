@@ -29,13 +29,17 @@ To maintain a consistent and organized structure within this repository, I follo
 
 ### Naming Conventions
 
-I use naming conventions acquired through a carrer of programming and game development. And has proven to be useful and worth it when searching for something, trying to animate something or a group of parts. Naming of similar objects may vary in convention depending on what they are intended for. In the end the most general rule is to differentiate between things with similar names and ultimately avoid spaces (somebody really didnt think spaces through in the early 90s).
+I use naming conventions acquired through a carrer of programming and game development that have proven to be useful and worth it when searching for something, trying to animate an object or a group of parts. Naming of similar objects may vary in convention depending on what they are intended for. In the end the most general rule is to differentiate between things with similar names and ultimately avoid spaces (somebody really didnt think spaces through in the early 90s).
 
-- **Project File Naming:** Pascal Case (PascalCase) - Community Standard.
+- **Project File Naming:** Pascal Case (PascalCase) - Community Standard. If additional annotation is necessary Snake Case (eg. BoatDeck_workfile).
 
-- **File Exports Naming:** Camel Case (camelCase) - Because usually it makes sense for exports to have the same name as the project file. Also I implement my loaders in games to auto-load and expose assets by variables named as the source file, therefore camel case makes even more sense.
+- **File Exports Naming:** Camel Case (camelCase) - Because usually it makes sense for exports to have the same name as the project file. Also I implement my loaders in games to auto-load and expose assets by variables named same as the source file, therefore camel case makes even more sense.
 
-- **Reference & Other Images Naming:** Snake Case (snake_case) often mixed with Pascal Case or Kebab Kase (kebab-case) for better context.
+- **Reference & Other Images Naming:** Snake Case (snake_case) often mixed with Kebab Case (kebab-case) for better context.
+
+- **Objects in Files:** Kebab Case for multi-word names followed by Snake Case for attributions and assignments (eg. assembly-line_conveyor-belt_3).
+
+- **Materials & Fonts:** Pascal Case for multi-word names still Pascal Case (eg. LightBrownWood).
 
 ### Documentation
 
