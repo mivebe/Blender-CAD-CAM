@@ -1,0 +1,9 @@
+6x Points
+1x Pentatonic Furnace
+1x Board
+2x Small Gantries
+4x Medium Gantries
+2x Long Gantries
+16x Gantry Columns
+6x Gantry Boosters (used to level the columns in cases where the gantries span both the floor tiles and empty space)
+2x Wide Gantry Boosters (used to provide stability to small gantries)
